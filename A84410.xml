@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A refutation of some of the false conceits in Mr. Locke's essay concerning humane understanding Together with a brief answer (in Latine) to the argument of Gerardus de Vries against the innate idea of God. By Edmund Elys, sometime fellow of Baliol-Colledge in Oxford.</title>
+            <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84410</idno>
+            <idno type="STC">Wing E692A</idno>
+            <idno type="STC">ESTC R231994</idno>
+            <idno type="EEBO-CITATION">99900083</idno>
+            <idno type="PROQUEST">99900083</idno>
+            <idno type="VID">133320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84410)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2514:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A refutation of some of the false conceits in Mr. Locke's essay concerning humane understanding Together with a brief answer (in Latine) to the argument of Gerardus de Vries against the innate idea of God. By Edmund Elys, sometime fellow of Baliol-Colledge in Oxford.</title>
+                  <author>Elys, Edmund, ca. 1634-ca. 1707.</author>
+               </titleStmt>
+               <extent>28, 27-30, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for, and sold by Will. Marshal at the Bible in Newgatestreet, and John Marshal at the Bible in Grace Church-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Locke, John.  An essay concerning humane understanding.</note>
+                  <note>Text is continuous despite pagination.</note>
+                  <note>With advertisements bound at end.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Locke, John, 1632-1704. --  Essay concerning human understanding --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133320:1" rendition="simple:additions"/>
+            <p>A REFUTATION OF Some of the Falſe Conceits IN Mr. <hi>LOCKE</hi>'s ESSAY CONCERNING <hi>Humane <g ref="char:V">Ʋ</g>nderſtanding.</hi> Together with a Brief Anſwer (in <hi>Latine</hi>) to the Argumentation of <hi>GERARD<g ref="char:V">Ʋ</g>S de <g ref="char:V">Ʋ</g>RIES</hi> againſt the <hi>Innate Idea</hi> of GOD. By <hi>Edmund Elys,</hi> ſometime Fellow of <hi>Baliol-Colledge</hi> in <hi>Oxford.</hi>
+            </p>
+            <p>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <bibl>Plato.</bibl>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for, and Sold by <hi>Will. Marſhal</hi> at the <hi>Bible</hi> in <hi>Newgateſtreet,</hi> and <hi>John Marſhal</hi> at the <hi>Bible</hi> in <hi>Grace Church-ſtreet.</hi> 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133320:2"/>
+            <pb facs="tcp:133320:2"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THE main Point in De<g ref="char:EOLhyphen"/>bate in theſe Small Tracts, is, Whether it be moſt to the Glory of the Father of Spi<g ref="char:EOLhyphen"/>rits, and to the Excellency of the Humane Immortal Spirit, <hi>his Off<g ref="char:EOLhyphen"/>ſpring;</hi>
+               <pb facs="tcp:133320:3"/> That an <hi>Idea</hi> of God, the Infinite Spirit, and Intellect, ſhould be Concreated with, or In<g ref="char:EOLhyphen"/>generated into it, when made in his <hi>Image, Geneſis 1. 27.</hi> Or ſuch <hi>Idia</hi> only Riſe up within it by its own Formation, in the Ex<g ref="char:EOLhyphen"/>erciſe of Its-Self upon Exter<g ref="char:EOLhyphen"/>nal Objects, under the Miniſtry of Senſe, and its Ratiocinations upon them. It is eaſily acknow<g ref="char:EOLhyphen"/>ledged, The Latter comes in as an Additional to the Former, and Flows Neceſſarily from it. <hi>For the Inviſible Things of Him, from the Creation of the World, are clearly ſeen, being underſtood by the Things that are made, even his Eternal and Godhead,</hi> 1. it be denied, but that
+<pb facs="tcp:133320:3"/> This Method of Senſe is neareſt, and lies moſt open to us in this Degenerate State, wherein we are ſunk down into Matter and Senſe.</p>
+            <p>But this will not Decide the Controverſie; That alone can do it, that can give us the Origi<g ref="char:EOLhyphen"/>nal Make of our Minds, or In<g ref="char:EOLhyphen"/>tellectual Spirits; and wherein the Divine Glory moſt manifeſted it ſelf within us at the Firſt: And that is the Word of God A<g ref="char:EOLhyphen"/>lone.</p>
+            <p>Now That bath Declared, The <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>The Idea of God,</hi> (as the Word Properly may be Tranſla<g ref="char:EOLhyphen"/>ted)
+<pb facs="tcp:133320:4"/> is <hi>Manifeſted in men; For God hath ſhewed it to Them,</hi> by the ſame Impreſs of Creation, by which He <hi>made Weights for the Wind, and a Way for the Lightning of Thunder. He ſaid,</hi> by Intel<g ref="char:EOLhyphen"/>lectual Inſpiration, <hi>Job 28. 28. The Fear of the Lord, That is Wiſdom.</hi>
+            </p>
+            <p>As now in <hi>Regeneration,</hi> or <hi>New Creation,</hi> the <hi>Spirit is Renewed,</hi> in the ſame <hi>Image,</hi> in <hi>Knowledge, Righteouſneſs</hi> and <hi>True Holineſs,</hi> Epheſians 4. 24. Coloſſians 3. 20. So He was Firſt Created.</p>
+            <p>The Eclipſe on this <hi>Idea</hi> is by Sin, and Corruption, <hi>the Ali<g ref="char:EOLhyphen"/>enation
+<pb facs="tcp:133320:4"/> from God, through the Ignorance in us, and be<g ref="char:EOLhyphen"/>cauſe of the Blindneſs of our Hearts,</hi> v. 18. We are now <hi>Condemned,</hi> as to the <hi>Mines,</hi> in Attaining Knowledge, and to work by Senſe firſt.</p>
+            <p>This is the Great Intention of the Following Animadverſions, which according to <hi>Solomon's</hi> Advice, Haſtens to <hi>the Concluſion of the Matter,</hi> Eccleſ. 12. 13. Com<g ref="char:EOLhyphen"/>priſing Much in Little; and ſo is Recommended to Divine Bleſſing, and Publick Acceptance; as Aſſer<g ref="char:EOLhyphen"/>ting from Scripture, and Reaſon Enlightned by it; An Vnderſtan<g ref="char:EOLhyphen"/>ding cannot be an <g ref="char:V">Ʋ</g>nderſtanding in the Glory and Dignity of the Firſt Creation; but it muſt have the
+<pb facs="tcp:133320:5"/> Image, and <hi>Idea</hi> of the Infinite, All Creating <g ref="char:V">Ʋ</g>nderſtanding upon it, and within it; though infinite<g ref="char:EOLhyphen"/>ly exceeding it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:133320:5"/>
+            <head>A REFUTATION OF Some of the Falſe Conceits in Mr. <hi>LOCKE</hi>'s ESSAY concerning <hi>Humane <g ref="char:V">Ʋ</g>nderſtan<g ref="char:EOLhyphen"/>ding.</hi>
+            </head>
+            <q>
+               <bibl>Eſſay concerning Humane <g ref="char:V">Ʋ</g>nderstanding, <hi>Book 1. Ch. 2.</hi>
+               </bibl> TO Imprint any thing on the Mind, without the Mind's perceiving it, ſeems to me hardly intelligible. </q>
+            <pb n="10" facs="tcp:133320:6"/>
+            <p>
+               <hi>Anſw.</hi> Almighty GOD, the ONE Being Abſolutely Infinite, is in All Creatures, and in a peculiar manner, in All Rational Souls, in that they are capable of Reflecting upon Him, being in themſelves, and in All other Crea<g ref="char:EOLhyphen"/>tures.</p>
+            <p>The Firſt Act of the Rational Soul is the Perception, or Apprehenſion of <hi>Being Abſolute or <g ref="char:V">Ʋ</g>niverſal:</hi> For 'tis im<g ref="char:EOLhyphen"/>poſſible the Soul ſhould Perceive or Ap<g ref="char:EOLhyphen"/>prehend this, or that to be, without any Notion or Appreheeſion of <hi>Being</hi> Abſo<g ref="char:EOLhyphen"/>lute, or Univerſal, which Being is GOD.</p>
+            <p>In the Notion, or <hi>Idea</hi> of GOD is implied the <hi>Idea of All Things;</hi> ſince He is the Fountain of All Be<g ref="char:EOLhyphen"/>ing.</p>
+            <p>To imprint any thing on the Mind, or Rational Soul, without the Mind's perceiving it, is as Intelligible as to make or create the Mind without the <hi>Mind's</hi> perceiving it. When we ſay, That GOD has imprinted an <hi>Idea</hi> of Himſelf upon the minds of All men: Our meaning is this, That he has made
+<pb n="11" facs="tcp:133320:6"/> uſe of ſuch a Nature or <hi>Mode of Being,</hi> that whenſoever we REFLECT, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (according to ſuch a <hi>State</hi> in which we were Created), upon our own Souls, we cannot but have ſome Notion or Perception of Him, <hi>In whom we Live, and Move, and have our Being.</hi>
+            </p>
+            <p>The <hi>Corruption</hi> of Humane Nature chiefly conſiſts in the <hi>Defection of the WILL</hi> from the <hi>Divine Goodneſs,</hi> to which Onely it ought to be Ful<g ref="char:EOLhyphen"/>ly and Abſolutely <hi>Inclin'd;</hi> and in the <hi>Defection of the <g ref="char:V">Ʋ</g>NDERSTAN<g ref="char:EOLhyphen"/>DING</hi> of the One Infinite Eſſence; which Defection of the UNDER<g ref="char:EOLhyphen"/>STANDING ariſes from the Per<g ref="char:EOLhyphen"/>verſeneſs of the WILL being Bent upon ſuch Objects, as if they were <hi>Abſolutely Good,</hi> which are but <hi>Vani<g ref="char:EOLhyphen"/>ty and vexation of Spirit;</hi> unleſs they are <hi>affected</hi> by the WILL or <hi>Intel<g ref="char:EOLhyphen"/>lectual Appetite,</hi> (<gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Onely in Reference to GOD the Fountain of All Goodneſs; <hi>i. e.</hi> the One Being Abſolutely Infinite.</p>
+            <pb n="12" facs="tcp:133320:7"/>
+            <q> To make Reaſon, <hi>ſays he,</hi> diſco<g ref="char:EOLhyphen"/>ver thoſe Truths thus imprinted, is to ſay, that the Uſe of Reaſon diſ<g ref="char:EOLhyphen"/>covers to a man, what he knew be<g ref="char:EOLhyphen"/>fore. </q>
+            <p>
+               <hi>Anſw.</hi> By the Uſe of Reaſon, or Ex<g ref="char:EOLhyphen"/>erciſe of our Underſtanding; we diſco<g ref="char:EOLhyphen"/>ver, or come to the Knowledge of that which was in our Underſtanding be<g ref="char:EOLhyphen"/>fore, though we did not <hi>Actually</hi> Ap<g ref="char:EOLhyphen"/>prehend or <hi>Reflect</hi> upon it. Hence it appears that this Gentleman's moſt Confident Aſſertion is no better than a Groſs Falſhood: <q rend="inline"> That we may as well think the Uſe of Reaſon neceſ<g ref="char:EOLhyphen"/>ſary to make our Eyes diſcover Vi<g ref="char:EOLhyphen"/>ſible Objects, as that there ſhould be need of Reaſon, or the Exerciſe thereof, to make the Underſtand<g ref="char:EOLhyphen"/>ing ſee what is Originally engraven in it. </q>
+            </p>
+            <p>We hope this Gentleman, upon a more mature Conſideration, will not deny, That 'tis Neceſſary that any Object ſhould <hi>be in the <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing,</hi>
+               <pb n="13" facs="tcp:133320:7"/> as impreſt upon it, or propos'd to it, before it can be Perceiv'd, Known, or Aſſented unto, as a Verity, or that which Really is.</p>
+            <p>A thing <hi>viſible</hi> muſt be <hi>in ſight;</hi> that is to ſay, it muſt make ſome impreſ<g ref="char:EOLhyphen"/>ſion upon the Viſive Faculty, before it can be ſeen. So an Object of the <hi>Intellect</hi> muſt make ſome Impreſſion before it can be Actually Perceiv'd, or Known.</p>
+            <q>
+               <bibl>
+                  <hi>Chap. 3. Sect.</hi> 1.</bibl> The Ignorance wherein many men are of them; (<hi>viz.</hi> Practical Principles;) and the ſlowneſs of Aſſent wherewith others receive them, are manifeſt Proofs that they are not Innate.</q>
+            <p>
+               <hi>Anſw.</hi> This Ignorance and Slovv<g ref="char:EOLhyphen"/>neſs are manifeſt Proofs that there is a Perverſeneſs in the WILL, Hin<g ref="char:EOLhyphen"/>dring the <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding</hi> from a due Reflection upon thoſe <hi>Practical Prin<g ref="char:EOLhyphen"/>ciples</hi> vvhich are all implied in the <hi>Notion,</hi> or <hi>Idea</hi> of the ONE Being
+<pb n="14" facs="tcp:133320:8"/> Infinite in All Perfection: For no<g ref="char:EOLhyphen"/>thing can be more manifeſt than this, That this <hi>Being</hi> is to be Lov'd vvith all our Heart, and vvith all our Soul. Upon this depend All other <hi>Practical Principles.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Chap. 3. Sect.</hi> 8.</bibl> Conſcience is nothing elſe but our own Opinion of our own Actions. And if Con<g ref="char:EOLhyphen"/>ſcience be a Proof of Innate Princi<g ref="char:EOLhyphen"/>ples, Contraries may be Innate Principles, ſince ſome men, with the ſame Bent of Conſcience, pro<g ref="char:EOLhyphen"/>ſecute what others avoid. </q>
+            <p>
+               <hi>Anſw.</hi> Conſcience is not <hi>Opinion,</hi> but that Faculty of the Rational Soul, by which, if <hi>Rightly</hi> Exercis'd, we <hi>Reflect</hi> upon our own Actions with a certain Notice of their conformity or Difformity to the Law of GOD.</p>
+            <p>An <hi>Opinion</hi> that any man has, That he pleaſes GOD in what is Really Wicked, is not Conſcience, but the <hi>Defilement,</hi> or <hi>Pollution</hi> of Conſcience.</p>
+            <pb n="15" facs="tcp:133320:8"/>
+            <q>
+               <bibl>
+                  <hi>Book 2, Chap. 16. Sect.</hi> 8.</bibl> This is obſervable in <hi>Number,</hi> That it is that which the Mind makes uſe of <hi>in meaſuring all things</hi> that by us are meaſurable; which principally are <hi>Expanſion</hi> and <hi>Duration;</hi> and our <hi>Idea</hi> of Infinity, even when applyed to thoſe, ſeems to be no<g ref="char:EOLhyphen"/>thing but the Infinity of Num<g ref="char:EOLhyphen"/>ber. </q>
+            <p>
+               <hi>Anſ.</hi> Number is not Infinite in the moſt ſtrict and proper ſenſe of the word <hi>Infinite:</hi> It is indeed <hi>Indefinite,</hi> or <hi>Indeterminate,</hi> but it implies a Contradiction that it ſhould be <hi>Infi<g ref="char:EOLhyphen"/>nite,</hi> becauſe it had a Beginning; and ſo was <hi>Bounded à Parte An<g ref="char:EOLhyphen"/>te.</hi>
+            </p>
+            <p>Its being <hi>Indefinite,</hi> or <hi>Indetermi<g ref="char:EOLhyphen"/>nate,</hi> clearly ſuggeſts the <hi>Idea</hi> of the ONE <hi>Being Abſolutely Infinite,</hi> which is the <hi>Foundation,</hi> or <hi>Origine</hi> of E<g ref="char:EOLhyphen"/>very <hi>
+                  <g ref="char:V">Ʋ</g>nite in Number,</hi> which we could not cenceive to be <hi>Multiplicable
+<pb n="16" facs="tcp:133320:9"/> in Infinitum,</hi> if we had not ſome <hi>Conception,</hi> or <hi>Idea</hi> of ONE whoſe Power is <hi>Infinite,</hi> which is the <hi>Only True</hi> GOD.</p>
+            <q>
+               <bibl>
+                  <hi>Chap. 17. Sect.</hi> 14.</bibl> They who would prove their <hi>Idea of Infinite to be poſitive, ſeem</hi> to me, to do it by a pleaſant Argument taken from the Negation of an end; which being Negative, the Negation of it is poſitive. </q>
+            <p>
+               <hi>Anſw.</hi> We ſay, there is nothing but what is <hi>Tranſcendently</hi> Poſitive in the <hi>Idea</hi> we have of that <hi>Infinite,</hi> which we Attribute to GOD: Con<g ref="char:EOLhyphen"/>ceiving that he has no Bounds, or rather, that he is beyond all Bounds, or <hi>Modes of Being;</hi> we conceive that He Is Actually ALL that CAN Be: So that it implies a Contra<g ref="char:EOLhyphen"/>diction that any thing ſhould ever <hi>Exiſt,</hi> but what Derives its Being from Him, and retains it only in a Continual Dependence upon Him. In the Coverſation I have had in the
+<pb n="17" facs="tcp:133320:9"/> World, the Divine Providence has given me many occaſions to make Obſervations of <hi>Rational Souls,</hi> in Reference to their Notion of the <hi>Deity,</hi> far Different from thoſe which have been made by this Learned Man. I have Obſerv'd many <hi>Women,</hi> and <hi>Chilaren, and Iliiterate Men</hi> that have had a much clearer <hi>Perception</hi> of the Divine Eſſence, more Pure, and Unmixt with Error, than He with all his Wit, and Learning has At<g ref="char:EOLhyphen"/>tain'd unto. They in the <hi>Simplicity</hi> of their Hearts have Reflected upon <hi>That which may be known of GOD manifeſt in them,</hi> Viz. That <hi>Notion,</hi> or <hi>Idea</hi> of GOD, which GOD Himſelf has Given, Propos'd, or Enhibited to their <hi>
+                  <g ref="char:V">Ʋ</g>nderſtanding,</hi> or <hi>Spiritual Perceptive Faculty;</hi> whereas this Author <hi>Averting</hi> his Mind (as much as He can) from the Appre<g ref="char:EOLhyphen"/>henſion of any ſuch <hi>Idea,</hi> Frames to himſelf an <hi>Idea of the Creator,</hi> which Implies a Conceit that the Divine Excellence, or Perfection differs, <hi>In the Degrees of the ſame Kind of Perfecti<g ref="char:EOLhyphen"/>on.</hi>
+               <pb n="18" facs="tcp:133320:10"/> from that which is in Men and Angels. Here the Learned, and Pi<g ref="char:EOLhyphen"/>ous Reader may Perceive how this Author by deſerting <hi>the Ground</hi> of all Right Ratiocination, the <hi>Innate Idea of GOD,</hi> and <hi>Phantaſying</hi> that the Beſt <hi>Idea</hi> he can have of Him, muſt be the <hi>Reſult</hi> of his own Ra<g ref="char:EOLhyphen"/>tiocination, he <hi>becomes</hi> (as the <hi>Apoſtle</hi> ſpeaks) <hi>Vain in His Imaginations</hi> con<g ref="char:EOLhyphen"/>cerning Him, by Attributing to Him, Perfection of the SAME KIND with that which we find in our ſelves, and in other Creatures, and ſo putting Bounds, or Limits to the TRANSCENDENCY <hi>of the Divine Being.</hi>
+            </p>
+            <p>That the Judicious Reader may ſee, that I do not wrong this Author; I ſhall here Recite thoſe Words of His, upon which I ground this charge againſt him.</p>
+            <q>
+               <bibl>
+                  <hi>Chap. 23. Sect.</hi> 33, 34, 35.</bibl> If we Examine the <hi>Idea</hi> we have of the Incomprehenſible Supreme Being,
+<pb n="19" facs="tcp:133320:10"/> We ſhall find that we came by it the ſame way; and that the com<g ref="char:EOLhyphen"/>plex <hi>Ideas</hi> we have both of God, and ſeparate Spirits, are made up of the ſimple <hi>Ideas</hi> we receive from <hi>Reflection,</hi> v. 9. having from what we experiment in our ſelves, got the <hi>Ideas</hi> of Exiſtence, and Durati<g ref="char:EOLhyphen"/>on, of Knowledge, and Power; of Plea<g ref="char:EOLhyphen"/>ſure, and Happineſs; and of ſeveral other Qualities, and Powers, which it is better to have than to be without when we would frame an <hi>Idea,</hi> the moſt ſuitable we can to the ſupreme Being, we enlarge every one of theſe with our <hi>Idea</hi> of Infinity; and ſo put<g ref="char:EOLhyphen"/>ting them together, make our com<g ref="char:EOLhyphen"/>plex <hi>Idea</hi> of God. For that the mind has ſuch a Power of enlarging its <hi>Idea</hi> received from Senſation and Reflection, has been already, ſhew<g ref="char:EOLhyphen"/>ed. </q>
+            <p>Here he plainly Refers to thoſe Words, </p>
+            <pb n="20" facs="tcp:133320:11"/>
+            <q>
+               <bibl>
+                  <hi>Chap. 17. Sect.</hi> 13.</bibl> I think, it is evident that the Addition of Infinite things toge<g ref="char:EOLhyphen"/>ther (as are all lengths, whereof we have the poſitive <hi>Ideas</hi>) can never otherwiſe produce the <hi>Idea</hi> of Infinite, than as Number does; which con<g ref="char:EOLhyphen"/>ſiſting of Additions of Finite Unites one to another, ſuggeſts the <hi>Idea</hi> of Infinite, only by a Power we find we have, of ſtill increaſing the Sum, and Adding more of the SAME KIND, without coming one jot nearer the end of ſuch Pro<g ref="char:EOLhyphen"/>greſſion. </q>
+            <p>In the 34th <hi>Section</hi> of this 23d <hi>Chap.</hi> He has theſe Words—</p>
+            <q> And to Frame the <hi>Idea</hi> of an Eter<g ref="char:EOLhyphen"/>nal Being: The Degrees, or Ex<g ref="char:EOLhyphen"/>tent, wherein we aſcribe Exiſtence, Power, Wiſdom, and all other Per<g ref="char:EOLhyphen"/>fection (which we can have any <hi>Ideas</hi> of) to that Soveraign be<g ref="char:EOLhyphen"/>ing which we call GOD, being all Boundleſs, and Infinite, we
+<pb n="21" facs="tcp:133320:11"/> Frame the beſt Idea of him our Minds are capable of. <hi>Sect.</hi> 35. Tho in his own Eſſence GOD be but Sim<g ref="char:EOLhyphen"/>ple, and Uncompounded, yet I think I may ſay, we have no other <hi>Idea</hi> of him, but a Complex one of Exiſtence, Knowledge, Power, Happineſs, <hi>&amp;c.</hi> Infinite and Eternal. </q>
+            <p>To what he ſpeaks of a <hi>Complex Idea of GOD,</hi> we anſwer, That a <hi>Complex Idea,</hi> in reference to his <hi>Eſſence,</hi> muſt needs be Falſe: But we may have ſuch a <hi>Concep<g ref="char:EOLhyphen"/>tion</hi> or <hi>Idea</hi> of Him, in reference to his <hi>Works,</hi> which may be called a <hi>Complex Idea:</hi> But any ſuch <hi>Idea</hi> may be Reſolv'd into the <hi>Simple Idea</hi> of His Eſſence, <hi>Viz.</hi> Of <hi>Being Abſolutely Infinite.</hi> In that He grants that the <hi>Idea of</hi> GOD implies <hi>Exiſtence without Beginning, or End</hi> (Sect. 34.) He plainly diſcovers the Force of the <hi>Innate Idea of</hi> GOD in His own Soul: For that which <hi>Is without Begin<g ref="char:EOLhyphen"/>ing, or End, Infinitely</hi> Tranſcends any Object, the <hi>Idea</hi> whereof implies NUM<g ref="char:EOLhyphen"/>BER, or DEGREES of Perfection. We grant, that the Notion of Finite
+<pb n="22" facs="tcp:133320:12"/> Perfections Growing, or Increaſing <hi>In Infinitam, Suggeſts</hi> to us the <hi>Idea of GOD,</hi> or rather Prompts us to <hi>Reflect</hi> upon It: But we deny that this <hi>Idea</hi> Implies any other Being than that which <hi>Infinitely</hi> Tranſcends ALL DEGREES of Wiſ<g ref="char:EOLhyphen"/>dom, Power, Goodneſs, <hi>&amp;c.</hi> That Are, or can be. But this Author talks of <hi>Degrees Boundleſs, and Infinite:</hi> And how can we conceive any Being to <hi>Tranſcend ſuch Degrees?</hi> To this I Anſwer, that DEGREES, or PROGRESSIONS muſt have a <hi>Beginning,</hi> and ſo be <hi>Bounded a Parte Ante,</hi> and conſquently can ne<g ref="char:EOLhyphen"/>ver be <hi>Boundleſs,</hi> or <hi>Infinite.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Sect.</hi>
+               </bibl> Tho, ſays He, in his own Eſſence GOD be ſimple, and uncom<g ref="char:EOLhyphen"/>pounded, yet I think we have no other <hi>Idea</hi> of him, but a Complexion of Exiſtence, Knowledge, <hi>&amp;c.</hi>
+            </q>
+            <p>To this I Anſwer, <hi>Firſt,</hi> That the <hi>Simple Idea</hi> of <hi>NECESSARY EXIST<g ref="char:EOLhyphen"/>ENCE,</hi> implies the <hi>Infinity</hi> of Know<g ref="char:EOLhyphen"/>ledge, Power, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> here I obſerve another In<g ref="char:EOLhyphen"/>ſtance of the Force, and Efficacy of the
+<pb n="23" facs="tcp:133320:12"/> 
+               <hi>Innate Idea</hi> of the Divine Eſſence in the Soul of this Man, in that he Acknow<g ref="char:EOLhyphen"/>ledges that GOD in his own Eſſence is Simple, or Uncompounded, which every Man muſt Acknowledge to be True, ſo far as he Reflects upon the <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as the Onely Ground of All True Rationcination.</p>
+            <q>
+               <bibl>
+                  <hi>Sect.</hi> 36. </bibl> This farther is to be obſer<g ref="char:EOLhyphen"/>ved, that there is no <hi>Idea,</hi> we Attri<g ref="char:EOLhyphen"/>bute to God, which is not alſo a part of our Complex <hi>Idea</hi> of other Spirits. </q>
+            <p>
+               <hi>Anſ.</hi> Any <hi>Conceit</hi> of the Nature or Eſſence of GOD, which does not im<g ref="char:EOLhyphen"/>ply <hi>Abſolute Infinity,</hi> is not the <hi>True Idea</hi> of GOD, but an IDOL.</p>
+            <q>
+               <bibl>Book 4, <hi>Chap. 10. Sect.</hi> 7.</bibl> I think, this I may ſay, that it is an ill way of eſtabliſhing this Truth, and ſilencing <hi>Atheiſts,</hi> to lay the whole ſtreſs of ſo important a Point, as this, upon that ſole Foundation: And take ſome Mens having that <hi>Idea</hi> of God in their minds (for 'tis evident ſome Men have none.
+<pb n="24" facs="tcp:133320:13"/> and ſome worſe than none, and the moſt very different) for the only Proof of a Deity; and out of an over Fondneſs of that Darling Inven<g ref="char:EOLhyphen"/>tion, Caſhier, or at leaſt endeavour to invalidate all other Arguments, and forbid us to hearken to thoſe Proofs, as being weak, or Fallacious, which our own Exiſtence, and the ſenſible parts of the Univerſe, offer ſo clearly and cogently to our Thoughts, that I deem it impoſſible for a conſidering Man to withſtand them. </q>
+            <p>
+               <hi>Anſ.</hi> We affirm, that Every Crea<g ref="char:EOLhyphen"/>ture, Every part of the Univerſe Proves the Exiſtence of the CREATOR, as the <hi>Prime Cauſe</hi> of all THINGS, and EVENTS (Sin only excepted.) But we affirm alſo, that what He Signified to <hi>MOSES</hi> by calling himſelf, IAM, He ſignifies to every <hi>Rational Soul,</hi> That He Is <hi>Abſolutely, or <g ref="char:V">Ʋ</g>niverſally: He is Actually ALL that Can Be:</hi> This <hi>Signification,</hi> Idea, <hi>or Intellectual Repreſentation of the Divine Eſſence,</hi> Every Creature, Every EFFECT of the Divine Power, that comes to our Notice, <hi>Suggeſts</hi> unto us,
+<pb n="25" facs="tcp:133320:13"/> or <hi>Propoſeth</hi> to our CONTEMPLATI<g ref="char:EOLhyphen"/>ON. This Truth is moſt certainly Sig<g ref="char:EOLhyphen"/>nified by theſe Words of the Bleſſed Apoſtle, <hi>Rom.</hi> 1. 20. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>
+               <hi>The Inviſible things of Him being un<g ref="char:EOLhyphen"/>derſtood, being</hi>
+               <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, MINDED, <hi>Ob<g ref="char:EOLhyphen"/>ſerv'd, Reflected upon, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, by the things that are made,</hi> As the means, or Occaſion of ſuch <hi>Reflection, <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, are clearly ſeen,</hi> are <hi>Perceiv'd,</hi> or <hi>Appre<g ref="char:EOLhyphen"/>hended</hi> by a kind of INTUITIVE Know<g ref="char:EOLhyphen"/>ledge; <hi>The Eyes of the <g ref="char:V">Ʋ</g>nderstanding being Fixt</hi> upon an IDEA, <hi>An Intelectu<g ref="char:EOLhyphen"/>al Image, or Repreſentation of HIM:</hi> Which <hi>Image,</hi> is That concerning which we have this <hi>Divine Teſtimony, Geneſ.</hi> 27. GOD <hi>Created Man in his own IMAGE. Power, and Godhead are</hi> Sy<g ref="char:EOLhyphen"/>nonymous Terms, each of them Signi<g ref="char:EOLhyphen"/>fying, The ONE ALMIGHTY, The ONE Being Infinite in All Perfection <hi>Of Him, and through Him, and to Him, are All things:</hi>
+            </p>
+            <closer>To whom be Glory for ever. <hi>AMEN.</hi> ΕΡΧΟΥ ΚΥΡΙΕ ΙΗΣΟΥ.</closer>
+         </div>
+         <div type="text">
+            <pb n="26" facs="tcp:133320:14"/>
+            <head>Gerardus de Uries <hi>In Exercit. 2. Sect.</hi> 7. haec Verba habet:</head>
+            <q> QUaelibet, aiunt, ex noſtris Ideis requirit cauſam, in qua vel for<g ref="char:EOLhyphen"/>maſiter, vel erninenter contineantur perfectiones, quae in Idea repreſentan<g ref="char:EOLhyphen"/>tur. Habemus autem Ideam Dei, Tan<g ref="char:EOLhyphen"/>quam Entis infinite perfecti: Ergo ali<g ref="char:EOLhyphen"/>qua ejus cauſa erit, in ſe vel formaliter, vel eminenter perfectiones illas conti<g ref="char:EOLhyphen"/>nens, quae in Idea tali repraeſentantur, id eſt, infinitas. In Nullo ero Finito infinitas perfectiones exiſtunt. Ergo datus aliquod infinite perfectum, in quo omnes illae perfectiones continean<g ref="char:EOLhyphen"/>tur,
+<pb n="27" facs="tcp:133320:14"/> quod<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> adeo ſit illius Ideae cauſa. Quod ipſum eſt Deus. Ad quae notan<g ref="char:EOLhyphen"/>dum, Ideam, quae per omnia Deum re<g ref="char:EOLhyphen"/>preſentat, ſic ut a parte ſui exiſtit, neceſ<g ref="char:EOLhyphen"/>ſario poſcere infinitam ſui cauſam, quia &amp; ipſa talis eſt infinita. At vero ejuſ<g ref="char:EOLhyphen"/>modi Ideam ut mens humana habeat, tantum abeſt ut ne quidem habere poſ<g ref="char:EOLhyphen"/>ſit. Conſtat enim, vim concipiendi, non eſſe ipſa mente majorem; quare, cum haec finita ſit, etiam illam eſſe talem. Unde conficitur non poſſe finitam no<g ref="char:EOLhyphen"/>ſtram mentem clara aliqua Idea ſibi poſitive repraeſentare, perfectiones infi<g ref="char:EOLhyphen"/>nitas tanquam tales; Cognoſcere ta<g ref="char:EOLhyphen"/>men pro modulo infinite perfectum, fateor; verum non aliter quam per<g ref="char:EOLhyphen"/>fectiones finitas multiplicando; iiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> omnes limites ac imperfectiones detra<g ref="char:EOLhyphen"/>hendo; ac deni<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> judicando majus id eſſe, quam quod a finita mente com<g ref="char:EOLhyphen"/>prehendi queat. Quae omnia cum a mente noſtra fieri poſſint, Ideae infiniti entis cauſam aliquam extra mentem quaerere nil eſt neceſſe; nedum ut et ſtatuatur infinita, </q>
+            <pb n="28" facs="tcp:133320:15"/>
+            <p>Non aliter, inquit, quam Perfectionor Finitas Multiplicando. Reſp. Nequa<g ref="char:EOLhyphen"/>quam Coneipimus SIMPLICITER INFINITUM, ſeu DEUM Verum &amp; Aeternum, Perfectiones Finitas Multipli<g ref="char:EOLhyphen"/>cando: Nam hoc eſſet exiſtimare Per<g ref="char:EOLhyphen"/>fectiones in Creaturis eſſe <hi>Ejuſdem Gene<g ref="char:EOLhyphen"/>ris</hi> cum Perfectionibus, ſeu Attributis Divinis, Quae nihil aliud ſunt, quam ipſa Divina, ſou <hi>Ipſum Simpliciter Infinitum</hi> a Meate noſtra Conceptum ſub Variis Co<g ref="char:EOLhyphen"/>gitandi Modis cum Reſpectu ad Varios Ejusdem INFINITI Effioientis in rebus Finitis Effectus.</p>
+            <q>
+               <bibl>Diſſertat de Conceptu Infiniti, <hi>Sect.</hi> 7.</bibl> Ego prorſus autumo Conceptum Infiniti, qua talis, in mente noſtra Nega<g ref="char:EOLhyphen"/>tivum eſſe, non Poſitivum: Demonſtro: Quicquid Poſitive concipimus id Intel<g ref="char:EOLhyphen"/>lectui noſtro tanquam illi approportio<g ref="char:EOLhyphen"/>natum occurit. Fieri nam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> non poteſt, ut aliquid poſitive a mente noſtra at<g ref="char:EOLhyphen"/>tingatur, quod captum ejus excedit, in quantum ni mirum eum excedit, quoni<g ref="char:EOLhyphen"/>am implicat intellectum noſtrum poſi<g ref="char:EOLhyphen"/>tivo modo verſari circa id, quod ſua natura eſt extra ejus ſphaeram activi<g ref="char:EOLhyphen"/>tatis. </q>
+            <pb n="27" facs="tcp:133320:15"/>
+            <p>Reſp. Contradictionem implicat, ut Id non ſit ſummè Poſitivum, quod Mens noſtra Aprehendit ſub Ratione, ſeu IDEA SIMPLICITER INFINITI, Quod, manifeſtum eſt, Infinitè noſtram Excedere Sphaeram Activitatis <hi>Intellectivae, adeo</hi> ut Id nullo modo Poſſit Mens noſtra <hi>Comprehendere:</hi> Nec tamen hinc ſequitur, quod Ipſum INFINITUM a Mente noſtra, ſeu Intellectu Poſitive non Attin<g ref="char:EOLhyphen"/>gatur. Quicquid id eſt, quod Mens noſtra Concipere poteſt per aliquam Ideam, ſeu Conceptum a ſeipſa Formatum, hoc cer<g ref="char:EOLhyphen"/>te eſt ipſi Intellectui Approportionatum; ſed Nulla eſt Proportio inter Mentem no<g ref="char:EOLhyphen"/>ſtram at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> 
+               <hi>Ipſum Simpliciter Infinitum,</hi> DEUM <hi>Opt. Max</hi> Cujus Notio, ſeu <hi>Idea ab</hi> Ipſo DEO in Mente noſtra eſt Formata, in quam Mens noſtra ſeu Intellectus ſe Poteſt <hi>Reflectere,</hi> ſed nullo modo Potuit<g ref="char:EOLhyphen"/>eam Formare, ſeu Efficere.</p>
+            <q>
+               <bibl>
+                  <hi>Sect.</hi> 2. </bibl> Quamvis ſit certiſſimum nos merito ob validas rationes judicare id, in re infinitâ plus eſt quam in Finitâ; &amp; per quod res infinita conſtituitur in eſſe Infiniti, eſſe a parte rei, quam maxime poſitivum; negatur tamen illud plus
+<pb n="28" facs="tcp:133320:16"/> realitatis, quod eſt in re Infinita, eam<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Infinitam facit, Te Ideâ quadam poſiti<g ref="char:EOLhyphen"/>va concipere; quod docuiſſe omnino neceſſe fuerat ad conficiendum, nos <hi>In<g ref="char:EOLhyphen"/>finitum per veram Ideam, &amp; non'tantum per Negationem Finiti percipere.</hi>
+            </q>
+            <p>Reſp. Hinc conſtat nos <hi>illud Plus Re<g ref="char:EOLhyphen"/>alitatis Ideâ Poſitivâ Concipere,</hi> quod ex<g ref="char:EOLhyphen"/>plicite, &amp; directe Concipiamus, Illud eſſe Summe Poſitivum; nempe Infinitum om<g ref="char:EOLhyphen"/>nia Creata, ſeu Finita ipſâ <hi>Realitate,</hi> ſeu <hi>Entitate</hi> Infinite Excedere.</p>
+            <q>
+               <bibl>
+                  <hi>Diatr. de Ideis Innatis, Sect.</hi> 8. </bibl> Suf<g ref="char:EOLhyphen"/>ficit ad id, ut Ideam Dei infinite perfecti formet Mens ipſa, ſi perfectionibus, quarum Ideam ex creaturis hauſit, ſic fines detraxerit, ut nullam amplius in eis advertat limitationem, quam ad<g ref="char:EOLhyphen"/>vertit omnino in rebus creatis; Hoc vero cur excedat mentis vires audire lubet. </q>
+            <p>Reſpondeo, Veram Dei Infinite Per<g ref="char:EOLhyphen"/>fecti Ideam non aliquam includere Per<g ref="char:EOLhyphen"/>fectionem <hi>Ejuſdem Generis</hi> cum iſtiuſmo<g ref="char:EOLhyphen"/>di Perfectionibus, quarum <hi>Ideam</hi> Mens ipſa ex Creaturis hauſit: Sed quaelibet Creatura Cogitata, ſeu <hi>Intellectu</hi> Percep<g ref="char:EOLhyphen"/>ta
+<pb n="29" facs="tcp:133320:16"/> Sufficit, ut Inſtrumentum <hi>Providentiae Divinae,</hi> ad excitandum <hi>Intellectum, ut Reflectat</hi> feſe in <hi>Ideam DEI</hi> Opt. Max. UNIUS <hi>Simpliciter Infiniti;</hi> hoc eſt, in ipſam noſtri <hi>Intellectus Modificationem,</hi> quae provenit, ſeu emanat a <hi>Peculiari Modo,</hi> quo DEUS, <hi>Eſſentia Simpliciter Infinita</hi> Ineſt in omni Anima <hi>Rationali.</hi> Percipere INFINITUM, niſi per <hi>Ideam</hi> ab Ipſo INFINITO Provenientem, tan<g ref="char:EOLhyphen"/>tum abeſt, ut Valeat Humanus Intel<g ref="char:EOLhyphen"/>lectus, quantum, ut Valeat Corpus ſuis ipſius viribus e Terris ad Aſtra aſcendere.</p>
+            <q>
+               <bibl>
+                  <hi>Sect.</hi> 2. </bibl> At vero telum hinc in me conii<g ref="char:EOLhyphen"/>ciendum erat trabale. Nimirum <hi>'Cum D. de <g ref="char:V">Ʋ</g>ries Ideam Dei Innatam neget, &amp; per diſcurſum eam formari doceat ab ipſa mente, non video, ait, qua ratione eam propoſitionem, Deus Exiſtit, ad im<g ref="char:EOLhyphen"/>mediatas, noeticas, &amp; innatas referre queat.</hi> Uti<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> tamen queo: quia in<g ref="char:EOLhyphen"/>natam Dei notitiam ſola aſſentiendi pronitate definivi. </q>
+            <p>Reſp. Ego dico illam huic; Propoſitioni Deus Exiſtit; Aſſentiendi Pronitatem ali<g ref="char:EOLhyphen"/>unde non oriri, niſi ab Innata DEI Opt. Max. <hi>Ideà,</hi> quae ſcilicet nihil aliud eſt, niſi
+<pb n="30" facs="tcp:133320:17"/> 
+               <hi>ipſa</hi> (ut ſupra dixi) <hi>Noſtri Intellectus Modificatio,</hi> &amp;c. Quicquid eſt in Rerum Natura, Intellectui Humano Applicatum, Sufficeret, ſi Pravitas <hi>Voluntatis</hi> non obſtaret, ad excitandum <hi>Intellectum, ſeu Facultatem Intellectivam ad Actum Intelli<g ref="char:EOLhyphen"/>gendi</hi> ſeu clare, ac diſtincte Percipiendi CREATOREM in omni Creatura, <hi>Pe<g ref="char:EOLhyphen"/>culiari Modo</hi> in omni Anima <hi>Rationali,</hi> Exiſtentem. Tò clare ac diſtincte CRE<g ref="char:EOLhyphen"/>ATOREM Percipere includit Tò Perci<g ref="char:EOLhyphen"/>pere <hi>Virtualiter, ſeu Implicite; vel For<g ref="char:EOLhyphen"/>maliter, ſeu Explicite Eum</hi> Eſſe UNUM <hi>Simpliciter Infinitum.</hi>
+            </p>
+            <p>Vale, Amice Lector. Faxit Deus Opt. Max. ut ad ſummam <hi>Summae Veritatis Notitiam Amando</hi> potius, quam <hi>Diſqui<g ref="char:EOLhyphen"/>rendo</hi> pervenire annitamur: Nec unquam nobis licere cenſeamus <hi>Quaeſtiones</hi> diſcu<g ref="char:EOLhyphen"/>tere, an hoc vel illud ſit Verum, niſi ſanctiſſimo iſtiuſmodi Studio adducti, ut OMNI VERO Cum OMNIO BONO in Aeternum perfruamur.</p>
+            <q>
+               <bibl>
+                  <hi>San.</hi> AUGUSTINUS in Pſalmum 27. </bibl> Non eſt Lumen Noſtrum Ex Nobis, ſed Tu Illuminabis Lucernam meam, DO<g ref="char:EOLhyphen"/>MINE. ΕΡΧΟΥ ΚΥΡΙΕΙΗΣΟΥ</q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:133320:17"/>
+            <head>A Catalogue <hi>of Books lately Printed and Publiſhed for</hi> W. Marſhall <hi>at the</hi> Bible <hi>in</hi> Newgate Street, <hi>and</hi> J. Marſhall <hi>at the</hi> Bible <hi>in</hi> Grace-Church Street.</head>
+            <p n="1">1. A New methodifed Concordance, price 6 <hi>d.</hi>
+            </p>
+            <p n="2">2. A Cabinet of Hell unlockt, or the late grand Conſpiracy; in a Sermon, <hi>Acts</hi> 23. 13. there were more than 40 which had made this Conſpiracy, price 6 <hi>d.</hi>
+            </p>
+            <p n="3">3. God acknowledg'd; or the true Intereſt of the Nation, by <hi>B. K.</hi> price 6 <hi>d.</hi>
+            </p>
+            <p n="4">4. The everlaſting Covenant, or the Nature of the Covenant of Grace opened; being a ſweet Cordial for a drooping ſoul, by <hi>B. K.</hi> price 6 <hi>d.</hi>
+            </p>
+            <p n="5">5. The true ſpring of Goſpel Light, and ſenſe of ſin, Jeſus Chriſt and him crucified, evidently ſet forth by his ſpirit in his word; delivered in a Sermon preached at <hi>London,</hi> and ſince enlarged, by <hi>Richard Davis,</hi> price 6 <hi>d.</hi>
+            </p>
+            <p n="6">6. An Examination of the Pacifick Paper, chiefly conſiſting of abſolute Election of parti<g ref="char:EOLhyphen"/>cular Perſons, with the Univerſality of Redemp<g ref="char:EOLhyphen"/>tion, and the Conditionality of the Covenant of Grace, price 4 <hi>d.</hi>
+            </p>
+            <p n="7">7. A ſhort View of ſome Reflections, made by a Nameleſs <hi>Author;</hi> with ſome remarks upon the Union in the late Agreement in Doctrine, a<g ref="char:EOLhyphen"/>mong the diſſenting Miniſters in <hi>London,</hi> price <hi>6d.</hi>
+            </p>
+            <p n="8">8. A Rejoynder to <hi>D. W's</hi> reply; to the firſt Part of <hi>Neomianiſm</hi> unmaskt, wherein his Diffe<g ref="char:EOLhyphen"/>rence is examined, and his Arguments anſwered; whereby he endeavours to prove the Goſpel to be a new Law with ſanction, and the contra<g ref="char:EOLhyphen"/>ry is proved, price 6 <hi>d.</hi>
+            </p>
+            <p n="9">9. A Compendium of the Covenant of Grace, as the moſt ſolid ſupport under the moſt terri<g ref="char:EOLhyphen"/>ble
+<pb facs="tcp:133320:18"/> Conflicts of Death; though armed with De<g ref="char:EOLhyphen"/>ſertion, Decay of Grace, and ſenſe of Guilt, by <hi>Walter Croſs,</hi> M. A. price 6 <hi>d.</hi>
+            </p>
+            <p n="10">10. An Account of ſome dying ſayings of <hi>Su<g ref="char:EOLhyphen"/>ſannah Yeats,</hi> with her funeral Sermon, by <hi>Tho. Wording</hi> Miniſter, price 6 <hi>d.</hi>
+            </p>
+            <p n="11">11. <hi>Bunyan</hi> of Election and Reprobation, un<g ref="char:EOLhyphen"/>folded and explained, in eleven Chapters, pr. <hi>6d.</hi>
+            </p>
+            <p n="12">12. Chriſtinaity the great Myſtery, in anſwer to a late Treatiſe, Chriſtianity not Myſterious; together with a Poſt-ſcript Letter to the Author, price 1 <hi>s.</hi>
+            </p>
+            <p n="13">13. A Diſcourſe, being the ſubſtance of ſeveral Sermons on the Sacrament of the Lords Supper; wherein the true ſpiritual nature thereof is open<g ref="char:EOLhyphen"/>ed and unfolded; ſhewing alſo in what ſenſe it is, that true believers do eat and drink the body and blood of Chriſt, price 6 <hi>d.</hi>
+            </p>
+            <p n="14">14. A choice Drop of Honey from the Rock Chriſt; or, a ſhort word of Advice to all ſaints, but eſpecially to thoſe that be in Church Fellow<g ref="char:EOLhyphen"/>ſhip; whereby they may be helped to ſtand upon the right Foundation, by <hi>Tho. Wilcocks,</hi> price. <hi>6d.</hi>
+            </p>
+            <p n="15">15. Evangelical Eſſays, being a diſcovery of the everlaſting Goſpel Life of Chriſt, by <hi>George Sicks,</hi> price bound 1 <hi>s. 6 d.</hi>
+            </p>
+            <p n="16">16. An Expoſition on the whole Book of Eccle<g ref="char:EOLhyphen"/>ſiaſtes, by <hi>Geo. Sicks,</hi> price bound 3 <hi>s.</hi>
+            </p>
+            <p n="17">17. Chriſt made Sin; with <hi>D. Criſps</hi> own An<g ref="char:EOLhyphen"/>ſwer to an Exception againſt his Aſſertion of Chriſt; being the firſt Gift to a Believer before the acting of Grace in him, price bound 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="18">18. The Young Mans Guide for Drawing, Limning and Etching, with printed Directions, price 1 <hi>s.</hi>
+            </p>
+            <p n="19">19. More work for the Dean, in Vindication of
+<pb facs="tcp:133320:18"/> 
+               <hi>Henry Borow, Guinwood</hi> and <hi>Penery;</hi> with a Peti<g ref="char:EOLhyphen"/>tion of thoſe perſecuted Chriſtians; wherein is ſhewed their barbarous uſage, price 6 <hi>d.</hi>
+            </p>
+            <p n="20">20. Mr. <hi>Walls</hi> Anſwer to an Inditement, pre<g ref="char:EOLhyphen"/>ferred by the Jury upon Oath at <hi>Surry</hi> Seſſions, held for the County of <hi>Croyden;</hi> againſt ſeveral In<g ref="char:EOLhyphen"/>habitants in <hi>Southwark;</hi> together with a Copy of the inditement, price 2 <hi>d.</hi>
+            </p>
+            <p n="21">21. A Diſcourſe of the Powers of the world to come; or the Miraculous Powers of the Goſpel and Kingdom of Jeſus Chriſt, price 1 <hi>s.</hi>
+            </p>
+            <p n="22">22. The Catechiſm of the Kingdom of our Lord Jeſus Chriſt in the 1000 years: Shewing by Scripture. 1. The great Article of Redemption. 2. Reſurrection. 3. The Myſtery of Saints not dying but changed. 4. Judgement. 5. The de<g ref="char:EOLhyphen"/>livery up of the Kingdom to God all in all, dedi<g ref="char:EOLhyphen"/>cated to the Biſhops in Parliament, by <hi>T. B.</hi> p. <hi>6d.</hi>
+            </p>
+            <p n="23">23. <hi>Rich Redivivus;</hi> or, Mr. <hi>Jeremy Rich's</hi> Short-hand improved in a more brief and com<g ref="char:EOLhyphen"/>pendious Method than hath been ſet forth by any heretofore, now made publick for the general advantage, by <hi>Nath. Stringer, A quondam Scholar</hi> to the ſaid Mr. <hi>Rich,</hi> price 1 <hi>s.</hi>
+            </p>
+            <p n="24">24. Anatomy ſpiritualized, in which is conſider'd 1. The happy State of mans Integrity in his firſt Creation. 2. The woeful Apoſtacy of Man from God by his original ſin. 3. Mans reſtoration by the ſecond <hi>Adam,</hi> price bound 1 <hi>s. 6 d.</hi>
+            </p>
+            <p n="25">25. Meditations and Diſcourſes on the Glory of Chriſt in his Perſon, in two Parts, bound 2 <hi>s.</hi> 6 d.</p>
+            <p n="26">26. <hi>D. Owen</hi> of the Spirit and his Work; and of ſpiritu<g ref="char:EOLhyphen"/>al Gifts, being an addition to his <hi>Folio,</hi> bound 2 <hi>s.</hi>
+            </p>
+            <p n="27">27. The true Nature of a Goſpel Church, bound 3 <hi>s.</hi>
+            </p>
+            <p n="28">28. Evidencies of the Faith of Gods Elect, left by <hi>D. Owens,</hi> for his wives private Meditations, bound 1 <hi>s.</hi>
+            </p>
+            <p n="29">29. Principles of the Doctrine of Chriſt, uſeful for all Families, by <hi>D. Owen,</hi> price bound 6 <hi>d.</hi>
+            </p>
+            <pb facs="tcp:133320:19"/>
+            <p n="30">30 A Guide to Church Fellowſhip and Order, accor<g ref="char:EOLhyphen"/>ding to the Goſpel Inſtitution, by <hi>D. Owen,</hi> pr. bound 6 <hi>s.</hi>
+            </p>
+            <p n="31">31. <hi>Cook</hi>'s Surgery and Anatomy; with the Marrow of Phyſick: With twelve Copper Cuts, price bound 6 <hi>s.</hi>
+            </p>
+            <p n="32">32. <hi>Tackenius</hi>'s Chymiſtry with his Clavis, bound 3 <hi>s.</hi>
+            </p>
+            <p n="33">33. A plea for ancient Goſpel. 1. Of Chriſt and the E<g ref="char:EOLhyphen"/>lect. 2. Of the Covenant of Grace, 3. The Natures of ſa<g ref="char:EOLhyphen"/>ving Faith. 4. Of the free Offer of Chriſt to Believers. 5. Of Union to Chriſt before Faith. 6. Of Juſtification on<g ref="char:EOLhyphen"/>ly by Faith. 7. Of the way to attain Aſſurance, by <hi>D. C.</hi> price bound 3 <hi>s.</hi>
+            </p>
+            <p n="34">34. <hi>Aſhood</hi>'s Heavenly Trade, price bound 6 <hi>d.</hi>
+            </p>
+            <p n="35">35. The beſt Treaſure, or the unſearchable Riches of Chriſt, by Mr. <hi>Aſhood,</hi> price bound 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="36">36. Obſervations of Engliſh Bodies, with phyſical Re<g ref="char:EOLhyphen"/>ceits for moſt Diſtempers, price bound 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="37">37. The fullfilling of Scripture, laſt Edition, price <hi>2s 6d</hi>
+            </p>
+            <p n="38">38. <hi>Eyre</hi>'s of free Juſtification of a Sinner, price 2 <hi>s.</hi>
+            </p>
+            <p n="39">39. A View of the State of Mankind in the firſt and ſe<g ref="char:EOLhyphen"/>cond <hi>Adam,</hi> price 4 <hi>d.</hi>
+            </p>
+            <p n="40">40. A Map of Salvation and Damnation, price. 6 <hi>d.</hi>
+            </p>
+            <p n="41">41. <hi>Donners</hi>'s of Believers Baptiſm, ſecond Edition enlar<g ref="char:EOLhyphen"/>ged, price bound 2 <hi>s.</hi>
+            </p>
+            <p n="42">42. Faith and Order of Congregational Churches in <hi>England</hi> agreed upon, price bound 6 <hi>d.</hi>
+            </p>
+            <p n="43">43. Mr. <hi>Davis</hi>'s Hymns, the ſecond Edition, bound <hi>1s.</hi>
+            </p>
+            <p n="44">44. The Childs Delight, fitted for the Education of Children and Youth, as ſpelling. reading, caſting Account; with Letters to parents, price bound 6 <hi>d.</hi>
+            </p>
+            <p n="45">45. Doctrine according to Godlineſs, being a Body, of Divinity, by <hi>D. Chaunſey,</hi> price bound 2 <hi>s.</hi>
+            </p>
+            <p n="46">46. Terms of Toleration, or an abſtract of the Act of parliament. for the Liberty of Diſſenters, price 2 <hi>d.</hi>
+            </p>
+            <p n="47">47. A Funeral Sermon, by <hi>Sam. Blower,</hi> price 6 <hi>d.</hi>
+            </p>
+            <p n="48">48. An anſwer to <hi>Lock</hi> of humane underſtanding, pr. 6 <hi>d.</hi>
+            </p>
+            <p n="49">49. <hi>Multum in parvo,</hi> a ſpelling Book for Youth, price <hi>2d.</hi>
+            </p>
+            <p>At the places above-named you may be ſupplyed with moſt Sorts of Stationary wares, likewiſe Paper Hangings. by the yard or ſheets, as Paper-Books, Quils, Wax. Pens, Pencils, Wafers, with the beſt writing Ink. far exceeding <hi>Holmans</hi> Powder Ink for blackneſs and holding of its Colour</p>
+            <p>At the places above mentioned you may be ſupplyed with moſt of D. <hi>Owens</hi> Works, and Mr. <hi>Beverlys, &amp;c.</hi>
+            </p>
+            <pb facs="tcp:133320:19"/>
+         </div>
+      </back>
+   </text>
+</TEI>
